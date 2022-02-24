@@ -1,0 +1,46 @@
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\bin\Debug\net6.0-windows\Projet6.exe
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\bin\Debug\net6.0-windows\Projet6.deps.json
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\bin\Debug\net6.0-windows\Projet6.runtimeconfig.json
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\bin\Debug\net6.0-windows\Projet6.dll
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\bin\Debug\net6.0-windows\ref\Projet6.dll
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\bin\Debug\net6.0-windows\Projet6.pdb
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\ExampleWindow.g.cs
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6_MarkupCompile.cache
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6_MarkupCompile.lref
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\ExampleWindow.baml
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.g.resources
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.AssemblyInfo.cs
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.dll
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\ref\Projet6.dll
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.pdb
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Project 1\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.genruntimeconfig.cache
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\ExampleWindow.g.cs
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6_MarkupCompile.cache
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6_MarkupCompile.lref
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.dll
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\ref\Projet6.dll
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.pdb
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\bin\Debug\net6.0-windows\Projet6.exe
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\bin\Debug\net6.0-windows\Projet6.deps.json
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\bin\Debug\net6.0-windows\Projet6.runtimeconfig.json
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\bin\Debug\net6.0-windows\Projet6.dll
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\bin\Debug\net6.0-windows\ref\Projet6.dll
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\bin\Debug\net6.0-windows\Projet6.pdb
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\ExampleWindow.baml
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.g.resources
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.AssemblyInfo.cs
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\Cours\Lamanu\WPF\Puissance4\Projet6\Projet6\obj\Debug\net6.0-windows\Projet6.genruntimeconfig.cache

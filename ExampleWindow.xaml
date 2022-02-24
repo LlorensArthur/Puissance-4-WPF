@@ -1,0 +1,63 @@
+﻿<Window x:Class="Projet6.ExampleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projet6"
+        mc:Ignorable="d"
+        Title="ExampleWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!-- 
+     When I'm composing grids in XAML, I group things together by type, not by where
+     they live in the grid.  This turns out to make a lot of maintenance tasks
+     easier.
+
+     Also, since Grid.Row and Grid.Column default to 0, a lot of people (and tools)
+     omit them if that's their value.  Not me.  It lets me quickly check to make
+     sure that content is where I think it is, just by looking at how it's organized
+     in the XAML.
+  -->
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Background="Lavender" Padding="10" HorizontalAlignment="Stretch">Here's the first row of the outer grid.</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Background="Lavender" Padding="10" HorizontalAlignment="Stretch">Here's the third row of the outer grid.</TextBlock>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" Background="AliceBlue" Padding="10">Here's the first column of the second row.</TextBlock>
+
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <!--
+         This part's pretty important.  Setting up the SharedSizeGroups for these
+         two columns keeps the labels and text boxes neatly arranged irrespective of
+         their length.
+      -->
+                <ColumnDefinition SharedSizeGroup="Label"/>
+                <ColumnDefinition SharedSizeGroup="TextBox"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0">First label</Label>
+            <Label Grid.Row="1" Grid.Column="0">Second label</Label>
+            <Label Grid.Row="2" Grid.Column="0">Third label, containing unusually long content</Label>
+
+            <TextBox Grid.Row="0" Grid.Column="1">First text box, containing unusually long content</TextBox>
+            <TextBox Grid.Row="1" Grid.Column="1">Second text box</TextBox>
+            <TextBox Grid.Row="2" Grid.Column="1">Third text box</TextBox>
+
+        </Grid>
+
+    </Grid>
+</Window>
